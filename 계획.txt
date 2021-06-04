@@ -1,0 +1,6 @@
+1. 얼굴인식 방법
+1-1 : python openCV이용한 얼굴인식 방법
+
+1-2 : esp8266에서 촬영한 영상을 라즈베리로 전송하는 방법
+https://gpiocc.github.io/learn/raspberrypi/esp/ml/2020/11/08/martin-ku-stream-video-from-esp32-to-raspberry-pi.html
+이 사이트를 참고하도록 하자(pdf로 저 장완료)
